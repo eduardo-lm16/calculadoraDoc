@@ -33,8 +33,7 @@
 Classe e documentação de multiplicação: 
 </p>
 
-public class multiplicacao {
-
+        public class multiplicacao {
         /** Método que realizara a operação de multiplicar dois numeros inteiros
          *
          * @param n1 primeiro numero inteiro
@@ -50,8 +49,7 @@ public class multiplicacao {
 Classe e documentação de subtração: 
 </p>
 
-public class subtracao {
-
+        public class subtracao {
         /** Método que realizara a operação de subtrair dois numeros inteiros
          *
          * @param n1 primeiro numero inteiro
@@ -67,8 +65,7 @@ public class subtracao {
 Classe e documentação de soma: 
 </p>
 
-public class soma {
-
+        public class soma {
         /** Método que realizara a operação de somar dois numeros inteiros
          *
          * @param n1 primeiro numero inteiro
