@@ -18,7 +18,6 @@
 </p>
      
         public class divisao {
-
         /** Método que realizara a operação de dividir dois numeros inteiros
          *
          * @param n1 primeiro numero inteiro
