@@ -1,15 +1,15 @@
 # calculadoraDoc
-##Objetivos
+## Objetivos
 <p>
   Este projeto tem como finalidade criar uma calculadora funcional e realizar diversos testes, analisando os resultados obtidos. 
 </p>
 
-##Documentação
+## Documentação
 <p>
   Foi realizado, também, a documentação do projeto utilizando Javadoc, descrevendo cada classe e seu funcionamento.
 </p>
 
-##Classes
+## Classes
 <p>
   A seguir, serão listadas as classes de operações com dois números inteiros;
 </p>
@@ -31,7 +31,7 @@
     }
 
 <p>
-Classe e documentação de multiplicaçãp: 
+Classe e documentação de multiplicação: 
 </p>
 
 public class multiplicacao {
